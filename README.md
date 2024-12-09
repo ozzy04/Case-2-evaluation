@@ -10,6 +10,7 @@ Program Approaches:
 Description: The program follows a clear, top-down structure where tasks are divided into functions. Each function performs a specific operation, such as input handling, matching, or displaying results.
 Benefits: Improves readability and maintainability.
 Allows easier debugging and testing.
+
 2.Randomization
 Description: Random numbers are used to assign participants to countries, simulating real-world unpredictability in assignments.
 Benefits: Adds diversity to match results, enabling simulation of multiple scenarios
